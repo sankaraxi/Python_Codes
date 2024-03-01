@@ -11,7 +11,7 @@ This Python script, `jugsmugspugs.py`, provides functionality to print "Jugs", "
 
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt.
-3. Navigate to the directory where `JugsMugsPugs.py` is located.
+3. Navigate to the directory where `jugsmugspugs.py` is located.
 4. Run the script by executing the following command:
    ``` python jugsmugspugs.py ```
 Follow the on-screen instructions to enter a number and choose whether to print in reverse order or normal order.
