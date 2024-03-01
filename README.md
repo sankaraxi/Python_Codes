@@ -1,4 +1,4 @@
-#JugsMugsPugs
+## JugsMugsPugs
 
 This Python script, `jugsmugspugs.py`, provides functionality to print "Jugs", "Mugs", "Pugs", or combinations of these words based on certain conditions related to a given number.
 
